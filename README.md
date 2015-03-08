@@ -38,10 +38,10 @@ Un exemple de code inconsistant:
 ```js
 if (someBoolean) {
   doThings();
-} elsif (anotherBoolean) {
+} else if (anotherBoolean) {
   doOtherThings();
 }
-elsif (andAgainAnAnotherBoolean)
+else if (andAgainAnAnotherBoolean)
 {
   doAnotherThings();
 }
