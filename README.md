@@ -51,6 +51,18 @@ else if (andAgainAnAnotherBoolean)
 
 Chaque fonctionnalité doit être accompagnée de tests unitaires.
 
+### 4. Commits
+
+Chaque commit doit posséder un message clair et regroupé un ensemble de
+modifications reliés au message : ceci permet de mieux comprendre les diverses
+itérations et modifications apportées à la code base.
+
+Chaque commit doit posséder une base de code fonctionnelle : les commits
+"intermédiaires" ne doivent jamais être publié sur le dépôt principal.
+
+Un très bon article sur comment rédiger un bon message de commit :
+[How to write a git commit message](http://chris.beams.io/posts/git-commit)
+
 ## Offres
 
 * [Frontend lead developer](offres/lead-frontend.md) (HTML/CSS, AngularJS,
