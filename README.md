@@ -1,6 +1,6 @@
 # Jam jobs
 
-Ce dépôt regroupe les diverses offres pour postuler à Jam.
+Ce dépôt regroupe les diverses offres techs pour postuler à Jam.
 
 ## Comment postuler ?
 
