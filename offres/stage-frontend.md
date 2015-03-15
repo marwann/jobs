@@ -82,5 +82,5 @@ A partir de 600€ / mois (suivant le profil) ( et de la confiture :heart: )
 
 ### Contact
 
-Envoyez-nous un mail à [jobs@justjam.at](mailto:jobs@justjam.at) avec votre CV /
+Envoyez-nous un mail à [jobs@meetj.am](mailto:jobs@meetj.am) avec votre CV /
 github / whatever pouvant appuyer votre candidature.

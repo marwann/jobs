@@ -5,7 +5,7 @@ Ce dépôt regroupe les diverses offres techs pour postuler à Jam.
 ## Comment postuler ?
 
 Si une offre ci-dessous vous intéresse, envoyez-nous par mail votre CV / github
-/ whatever pouvant appuyer votre candidature à l'adresse [jobs@justjam.at](mailto:jobs@justjam.at)
+/ whatever pouvant appuyer votre candidature à l'adresse [jobs@meetj.am](mailto:jobs@meetj.am)
 
 Quelqu'un de l'équipe vous répondra afin de fixer une date pour un 1er rendez-vous (IRL
 ou skype).
@@ -72,4 +72,4 @@ Un très bon article sur comment rédiger un bon message de commit :
 * [Stage backend developer](offres/stage-backend.md) (Ruby, Rails, API)
 
 Pour les candidatures spontanées, n'hésitez pas à nous contacter :
-[jobs@justjam.at](mailto:jobs@justjam.at)
+[jobs@meetj.am](mailto:jobs@meetj.am)
