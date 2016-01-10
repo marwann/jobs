@@ -5,7 +5,7 @@ Ce dépôt regroupe les diverses offres techs pour postuler à Jam.
 ## Comment postuler ?
 
 Si une offre ci-dessous vous intéresse, envoyez-nous par mail votre CV / github
-/ whatever pouvant appuyer votre candidature à l'adresse [jobs@meetj.am](mailto:jobs@meetj.am)
+/ whatever pouvant appuyer votre candidature à l'adresse [jobs@hellojam.fr](mailto:jobs@hellojam.fr)
 
 Quelqu'un de l'équipe vous répondra afin de fixer une date pour un 1er rendez-vous (IRL
 ou skype).
@@ -65,11 +65,7 @@ Un très bon article sur comment rédiger un bon message de commit :
 
 ## Offres
 
-* [Frontend lead developer](offres/lead-frontend.md) (HTML/CSS, AngularJS,
-  ionic)
-* [Stage frontend developer](offres/stage-frontend.md) (HTML/CSS, AngularJS,
-  ionic)
-* [Stage backend developer](offres/stage-backend.md) (Ruby, Rails, API)
+* [Lead frontend developer](offres/lead-frontend.md) (HTML/CSS, AngularJS)
 
 Pour les candidatures spontanées, n'hésitez pas à nous contacter :
-[jobs@meetj.am](mailto:jobs@meetj.am)
+[jobs@hellojam.fr](mailto:jobs@hellojam.fr)
