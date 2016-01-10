@@ -2,19 +2,26 @@
 
 ### Notre misson
 
-Jam aide les étudiants à trouver tout ce dont ils ont besoin gratuitement grâce
+[Jam](https://hellojam.fr) aide les étudiants à trouver tout ce dont ils ont besoin gratuitement grâce
 à une conversation SMS ou Messenger avec une intelligence artificielle
 supervisée par des humains.
-
-Jam a pour ambition d'automatiser entièrement la plupart des requêtes courantes
-de nos utilisateurs, tout en augmentant la profondeur du produit et en
-s'expandant à l'internationnal.
 
 ### La startup
 
 Nous sommes une jeune équipe dynamique (la moyenne d'âge est de 25 ans !), nous
 aimons les gens qui n'hésitent pas à faire les choses, la transparence, et faire
 constamment de la veille.
+
+Nous avons pour ambition d'automatiser entièrement la plupart des requêtes courantes
+de nos utilisateurs, tout en augmentant la profondeur du produit et en
+s'expandant à l'international : c'est pourquoi nous recherchons des talents pour
+compléter notre équipe, qui compte un peu moins d'une dizaine de personnes
+aujourd'hui.
+
+Si tu cherches à rejoindre une startup en forte croissance, qu'appendre tous les
+jours est l'une des raisons pour lesquelles tu te lèves le matin, et que résoudre
+des problématiques techniques qui auront un impact direct sur les utilisateurs
+te fait vibrer, tu es sur la bonne page ;)
 
 Tu trouveras quelques slides sur la culture de Jam par ici pour en savoir un peu
 plus : [http://culture.hellojam.fr](http://culture.hellojam.fr)
