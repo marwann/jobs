@@ -37,9 +37,9 @@ pages, et de tous les produits / expérimentations impliquant du dev web.
 ### L'environnement de travail
 
 <p align="center">
-  <img src="../img/wok1.jpg?raw=true" style="width: 33%;" alt="Wok 1" />
-  <img src="../img/wok2.jpg?raw=true" style="width: 33%;" alt="Wok 2" />
-  <img src="../img/wok3.jpg?raw=true" style="width: 33%;" alt="Wok 3" />
+  <img src="../img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
+  <img src="../img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
+  <img src="../img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
 </p>
 
 L'adresse:
