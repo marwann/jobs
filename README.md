@@ -65,7 +65,7 @@ Un très bon article sur comment rédiger un bon message de commit :
 
 ## Offres
 
-* [Lead frontend developer](offres/lead-frontend.md) (HTML/CSS, AngularJS)
+* [Lead frontend developer](offres/lead-frontend.md) ;
 
 Pour les candidatures spontanées, n'hésitez pas à nous contacter :
 [jobs@hellojam.fr](mailto:jobs@hellojam.fr)
