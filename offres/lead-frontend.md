@@ -41,21 +41,6 @@ de nos utilisateurs.
 De plus, tu t'occuperas des diverses itérations sur la homepage, les landings
 pages, et de tous les produits / expérimentations impliquant du dev web.
 
-### L'environnement de travail
-
-<p align="center">
-  <img src="../img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
-  <img src="../img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
-  <img src="../img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
-</p>
-
-L'adresse:
-
-```
-80 Rue de Cléry
-75002 Paris
-```
-
 ### Compétences recherchées
 
 Les *must have* pour postuler:
@@ -71,7 +56,23 @@ Les *nice to have*:
 * Notions d'UX / UI ;
 * POO / conception logicielle ;
 * Tests unitaires ;
+* Familier avec les notions de CI et CD ;
 * Écosystème node.js (npm, grunt, gulp, yeoman ...) ;
+
+### L'environnement de travail
+
+<p align="center">
+  <img src="../img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
+  <img src="../img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
+  <img src="../img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
+</p>
+
+L'adresse:
+
+```
+80 Rue de Cléry
+75002 Paris
+```
 
 ### Poste
 
