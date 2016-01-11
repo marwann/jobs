@@ -33,16 +33,17 @@ croissants de messages hebdomadaire, tu seras en charge de modéliser les divers
 comportements de nos utilisateurs afin de pouvoir optimiser l'expérience et
 ainsi exploiter au maximun le contexte de leurs requêtes.
 
-L'optimisation de l'extraction du contenu fera partie aussi de ta mission, ch
+Tu seras en charge d'optimiser et de comprendre quels contenus sont satisfaisant et pourquoi
+de manière à améliorer la qualité globale de jam.
 
-Tu seras de même en charge d'optimiser les prévisions de la supervision humaine,
-élement clé de la croissance de Jam.
+Tu seras de même en charge d'optimiser la supervision humaine, élement clé de la croissance de Jam.
 
 ### Compétences recherchées
 
 Les *must have* pour postuler:
 
 * Connaissances solides en SQL ;
+* Connaissances en analyse de données (R/SAS);
 * Être au courant des diverses recherches / papiers dans le domaine de la NLP ;
 * Bon niveau d'anglais à l'écrit.
 
