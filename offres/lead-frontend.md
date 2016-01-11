@@ -14,7 +14,7 @@ constamment de la veille.
 
 Nous avons pour ambition d'automatiser entièrement la plupart des requêtes courantes
 de nos utilisateurs, tout en augmentant la profondeur du produit et en
-s'expandant à l'international : c'est pourquoi nous recherchons des talents pour
+se développant à l'international : c'est pourquoi nous recherchons des talents pour
 compléter notre équipe, qui compte un peu moins d'une dizaine de personnes
 aujourd'hui.
 
@@ -60,8 +60,8 @@ L'adresse:
 
 Les *must have* pour postuler:
 
-* 2 ans d'expérience en dévelopment web (HTML / CSS / Javascript ) ;
-* 6 mois d'expérience en dévelopment Angular.js ;
+* 2 ans d'expérience en développment web (HTML / CSS / Javascript ) ;
+* 6 mois d'expérience en développment Angular.js ;
 * Délivrer du code propre ;
 * Bon niveau d'anglais à l'écrit.
 
@@ -73,7 +73,11 @@ Les *nice to have*:
 * Tests unitaires ;
 * Écosystème node.js (npm, grunt, gulp, yeoman ...) ;
 
+### Poste
+
+CDI ou CDD (ou stage de fin d'étude), rémunération en fonction du profil.
+
 ### Contact
 
 Envoie un email à [jobs@hellojam.fr](jobs@hellojam.fr) avec un CV / github /
-linkedin / whatever pour appuyer ta candidature.
+linkedin / whatever, ainsi que quelques lignes pour appuyer ta candidature.
