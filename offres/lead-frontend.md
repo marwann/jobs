@@ -59,15 +59,11 @@ Les *nice to have*:
 * Familier avec les notions de CI et CD ;
 * Écosystème node.js (npm, grunt, gulp, yeoman ...) ;
 
-### L'environnement de travail
+### Les bureaux de Jam
 
-<p align="center">
-  <img src="../img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
-  <img src="../img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
-  <img src="../img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
-</p>
-
-L'adresse:
+![Wok 1](https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok1.jpg)
+![Wok 2](https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok2.jpg)
+![Wok 3](https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok3.jpg)
 
 ```
 80 Rue de Cléry
