@@ -62,9 +62,9 @@ Les *nice to have*:
 ### L'environnement de travail
 
 <p align="center">
-  <img src="../img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
-  <img src="../img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
-  <img src="../img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
+  <img src="https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok1.jpg?raw=true" width="200" alt="Wok 1" />
+  <img src="https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok2.jpg?raw=true" width="200" alt="Wok 2" />
+  <img src="https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok3.jpg?raw=true" width="200" alt="Wok 3" />
 </p>
 
 L'adresse:
