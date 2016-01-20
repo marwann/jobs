@@ -65,8 +65,6 @@ Les *nice to have*:
 ![Wok 2](https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok2.jpg)
 ![Wok 3](https://raw.githubusercontent.com/blackbirdco/jobs/master/img/wok3.jpg)
 
-L'adresse:
-
 ```
 80 Rue de Cléry
 75002 Paris
