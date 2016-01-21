@@ -46,6 +46,7 @@ Les *must have* pour postuler:
 * 2+ ans d'expérience en NLP ;
 * Connaissance en SQL ;
 * Être au courant des diverses recherches / papiers dans le domaine de la NLP ;
+* Parler et écrire couramment le français ;
 * Bon niveau d'anglais à l'écrit.
 
 Les *nice to have*:
