@@ -71,5 +71,5 @@ CDI ou CDD (ou stage de fin d'étude), rémunération en fonction du profil.
 
 ### Contact
 
-Envoie un email à [jobs@hellojam.fr](jobs@hellojam.fr) avec un CV / github /
+Envoie un email à [jobs@hellojam.fr](mailto:jobs@hellojam.fr) avec un CV / github /
 linkedin / whatever, ainsi que quelques lignes pour appuyer ta candidature.
