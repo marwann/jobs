@@ -42,9 +42,9 @@ Tu seras de même en charge d'optimiser la supervision humaine, élement clé de
 
 Les *must have* pour postuler:
 
-* Connaissances solides en SQL ;
+* Connaissances en mathématiques statistiques ;
 * Connaissances en analyse de données (R/SAS);
-* Être au courant des diverses recherches / papiers dans le domaine de la NLP ;
+* Connaissances solides en SQL ;
 * Parler et écrire couramment le français ;
 * Bon niveau d'anglais à l'écrit.
 
