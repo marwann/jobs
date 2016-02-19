@@ -8,7 +8,7 @@ supervisée par des humains.
 
 ### La startup
 
-Nous sommes une jeune équipe dynamique (la moyenne d'âge est de 25 ans !), nous
+Nous sommes une jeune équipe dynamique (la moyenne d'âge est de 26 ans), nous
 aimons les gens qui n'hésitent pas à faire les choses, la transparence, et faire
 constamment de la veille.
 
