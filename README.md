@@ -15,9 +15,7 @@ fera passer un test technique.
 
 ## Offres
 
-* [Lead frontend developer](offres/lead-frontend.md) ;
-* [Data scientist](offres/data-scientist.md) ;
-* [NLP scientist](offres/nlp-scientist.md) ;
+* [Bras gauche COO](offres/nlp-scientist.md) ;
 
 Pour les candidatures spontanées, n'hésitez pas à nous contacter :
 [jobs@hellojam.fr](mailto:jobs@hellojam.fr)
