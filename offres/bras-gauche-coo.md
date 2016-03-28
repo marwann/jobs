@@ -50,8 +50,9 @@ pipeline de la boîte : recrutement, roadmaps, etc..
 ### Compétences recherchées
 
 * Gestionnaire de projets dans l'âme, tu dois pouvoir te projeter à moyen terme ;
-* Tech-friendly, tu peux comprendre et écrire du code (pas trop non plus ;p) ;
-* Rigoureux, tu aimes les choses carrées (sans pour autant être perfectionniste) ;
+* Tech-friendly, tu peux comprendre et écrire du code, tu ne seras pas amener à
+  recompiler des kernels ;p ;
+* Rigoureux, tu aimes les choses carrées, sans pour autant être perfectionniste ;
 * Bon communicant, tu n'es pas un ours des cavernes.
 
 ### Les bureaux de Jam
@@ -71,5 +72,5 @@ Stage 6 mois.
 
 ### Contact
 
-Envoie un email à [jobs@hellojam.fr](mailto:jobs@hellojam.fr?subject=Bras gauche COO @ Jam) avec un CV /
+Envoie un email à [loic@hellojam.fr](mailto:loic@hellojam.fr?subject=Bras gauche COO @ Jam) avec un CV /
 linkedin / whatever, ainsi que quelques lignes pour appuyer ta candidature.

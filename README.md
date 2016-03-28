@@ -15,7 +15,7 @@ fera passer un test technique.
 
 ## Offres
 
-* [Bras gauche COO](offres/nlp-scientist.md) ;
+* [Bras gauche COO](offres/bras-gauche-coo.md) ;
 
 Pour les candidatures spontanées, n'hésitez pas à nous contacter :
 [jobs@hellojam.fr](mailto:jobs@hellojam.fr)
