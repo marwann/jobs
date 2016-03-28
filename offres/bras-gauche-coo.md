@@ -1,6 +1,6 @@
 ## Bras gauche COO
 
-(Le bras droit est déjà pris)
+(Le bras droit est déjà pris 🙊)
 
 ### Notre misson
 
