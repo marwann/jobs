@@ -50,7 +50,7 @@ pipeline de la boîte : recrutement, roadmaps, etc..
 ### Compétences recherchées
 
 * Gestionnaire de projets dans l'âme, tu dois pouvoir te projeter à moyen terme ;
-* Tech-friendly, tu peux comprendre et écrire du code, tu ne seras pas amener à
+* Tech-friendly, tu peux comprendre et écrire du code, tu ne seras pas amené à
   recompiler des kernels ;p ;
 * Rigoureux, tu aimes les choses carrées, sans pour autant être perfectionniste ;
 * Bon communicant, tu n'es pas un ours des cavernes.
