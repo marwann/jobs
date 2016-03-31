@@ -1,6 +1,6 @@
 ## Data scientist
 
-### Notre misson
+### Notre mission
 
 [Jam](https://hellojam.fr) aide les étudiants à trouver tout ce dont ils ont besoin gratuitement grâce
 à une conversation SMS ou Messenger avec une intelligence artificielle
